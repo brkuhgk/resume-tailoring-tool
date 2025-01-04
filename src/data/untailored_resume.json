@@ -1,0 +1,50 @@
+{
+    "personal_information": {
+        "name": "Solid Snake",
+        "location": "Dublin, Ireland",
+        "phone": "+1-781-911-7091",
+        "email": "hi@gmail.com",
+        "linkedin": "https://linkedin.com/in/thezucc",
+        "github": "https://github.com/lol"
+    },
+    "education_details": [
+        {
+            "education_level": "Master's Degree",
+            "institution": "Bob Academy",
+            "field_of_study": "Bobs Engineering",
+            "year_of_completion": "2023"
+        },
+        {
+            "education_level": "Bachelor's Degree",
+            "institution": "Bob Academy",
+            "field_of_study": "Bobs Engineering",
+            "year_of_completion": "2021"
+        }
+    ],
+    "projects": [
+        {
+            "name": "X",
+            "description": "Y blah blah blah",
+            "link": "https://github.com/haveagoodday"
+        }
+    ],
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "Data Analysis",
+        "React",
+        "Node.js",
+        "Agile Methodologies",
+        "Software Troubleshooting",
+        "Code Reviews",
+        "Project Management"
+    ],
+    "certifications": [
+        "Certified Data Scientist",
+        "AWS Certified Solutions Architect"
+    ],
+    "publications": [
+        "Research Paper on AI",
+        "Article on Machine Learning"
+    ]
+}

@@ -1,0 +1,54 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titling}
+
+\renewcommand{\maketitle}{%
+\begin{center}
+    {\Huge \textbf{<<name>>}} \\
+    \vspace{2mm}
+    \textit{<<location>>} \\
+    \textit{<<email>> | <<phone>>} \\
+    \href{<<linkedin>>}{LinkedIn} | \href{<<github>>}{GitHub}
+\end{center}}
+
+\begin{document}
+\maketitle
+\section*{Education}
+\rule{\textwidth}{0.5pt}
+\begin{itemize}[leftmargin=*]
+<< education_items >>
+\end{itemize}
+
+\section*{Professional Experience}
+\rule{\textwidth}{0.5pt}
+\begin{itemize}[leftmargin=*]
+<< experience_items >>
+\end{itemize}
+
+\section*{Projects}
+\rule{\textwidth}{0.5pt}
+\begin{itemize}[leftmargin=*]
+<< projects_items >>
+\end{itemize}
+
+\section*{Skills}
+\rule{\textwidth}{0.5pt}
+\begin{itemize}[leftmargin=*]
+<< skills_items >>
+\end{itemize}
+
+\section*{Certifications}
+\rule{\textwidth}{0.5pt}
+\begin{itemize}[leftmargin=*]
+<< certifications_items >>
+\end{itemize}
+
+\section*{Publications}
+\rule{\textwidth}{0.5pt}
+\begin{itemize}[leftmargin=*]
+<< publications_items >>
+\end{itemize}
+
+\end{document}
