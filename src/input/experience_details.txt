@@ -1,0 +1,40 @@
+- position: "X"
+        company: "Y."
+        employment_period: "06/2019 - Present"
+        location: "San Francisco, CA"
+        industry: "Technology"
+        key_responsibilities:
+        - responsibility: "Developed web applications using React and Node.js"
+        - responsibility: "Collaborated with cross-functional teams to design and implement new features"
+        - responsibility: "Troubleshot and resolved complex software issues"
+        skills_acquired:
+        - "React"
+        - "Node.js"
+        - "Software Troubleshooting"
+    - position: "Software Developer"
+        company: "Innovatech"
+        employment_period: "06/2015 - 12/2017"
+        location: "Milan, Italy"
+        industry: "Technology"
+        key_responsibilities:
+        - responsibility: "Developed and maintained web applications using modern technologies"
+        - responsibility: "Collaborated with UX/UI designers to enhance user experience"
+        - responsibility: "Implemented automated testing procedures to ensure code quality"
+        skills_acquired:
+        - "Web development"
+        - "User experience design"
+        - "Automated testing"
+    - position: "Junior Developer"
+        company: "StartUp Hub"
+        employment_period: "01/2014 - 05/2015"
+        location: "Florence, Italy"
+        industry: "Startups"
+        key_responsibilities:
+        - responsibility: "Assisted in the development of mobile applications and web platforms"
+        - responsibility: "Participated in code reviews and contributed to software design discussions"
+        - responsibility: "Resolved bugs and implemented feature enhancements"
+        skills_acquired:
+        - "Mobile app development"
+        - "Code reviews"
+        - "Bug fixing"
+    ...
